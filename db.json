@@ -1,0 +1,67 @@
+{
+  "EmployeeDetails": [
+    {
+      "Name": "mayank",
+      "Age": "24",
+      "Address": "bangalore",
+      "Department": "IT",
+      "Salary": "60000",
+      "marital_State": "Unmarried",
+      "id": 1
+    },
+    {
+      "Name": "Mak",
+      "Age": "22",
+      "Address": "Mumbai",
+      "Department": "IT",
+      "Salary": "80000",
+      "marital_State": "Unmarried",
+      "id": 2
+    },
+    {
+      "Name": "prabhnjan",
+      "Age": "22",
+      "Address": "pune",
+      "Department": "IT",
+      "Salary": "100000",
+      "marital_State": "Unmarried",
+      "id": 3
+    },
+    {
+      "Name": "Nrupul",
+      "Age": "30",
+      "Address": "Bangalore",
+      "Department": "Tech",
+      "Salary": "2000000",
+      "marital_State": "Married",
+      "id": 4
+    },
+    {
+      "Name": "Yogesh",
+      "Age": "30",
+      "Address": "bangalore",
+      "Department": "Management",
+      "Salary": "200000",
+      "marital_State": "Married",
+      "id": 5
+    },
+    {
+      "Name": "Priya",
+      "Age": "20",
+      "Address": "Pune",
+      "Department": "Management",
+      "Salary": "200000",
+      "marital_State": "Unmarried",
+      "id": 6
+    },
+    {
+      "Name": "makk1",
+      "Age": "22",
+      "Address": "bangalore",
+      "Department": "Management",
+      "Salary": "1000000",
+      "marital_State": "Married",
+      "id": 7
+    }
+  ]
+}
